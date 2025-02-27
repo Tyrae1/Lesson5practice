@@ -1,0 +1,8 @@
+*.userprefs
+.DS_Store/
+*.sln.iml
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
